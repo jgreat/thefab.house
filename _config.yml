@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: The Fab House
 email: info@thefab.house
 description: >- # this means to ignore newlines until "baseurl:"
-  3d Printing and Fabrication services. Community makerspace.
+  3d Printing and Fabrication services. A community Makerspace.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thefab.house" # the base hostname & protocol for your site, e.g. http://example.com
 
